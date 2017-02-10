@@ -1,2 +1,2 @@
 # javacode
-java code 
+java code snippets for practice
